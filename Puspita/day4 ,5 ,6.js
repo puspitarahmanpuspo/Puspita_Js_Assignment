@@ -217,7 +217,7 @@ console.log(x);
 
 
 //Replace Method
-// let a = "I Love Zahid";
+// let a = "I Love Puspo";
 // let hate = a.replace("Love" , "Hate");
 
 // document.getElementById("demo").innerHTML = hate; 
@@ -227,7 +227,7 @@ console.log(x);
 
 
 //uppercase method
-// let a = "I Hate Zahid";
+// let a = "I Hate Puspo";
 // let hate = a.toUpperCase();
 // document.getElementById("demo").innerHTML = hate; 
 
@@ -239,7 +239,7 @@ console.log(x);
 
 
 // Lowercase Method
-// let a = "I Hate Zahid";
+// let a = "I Hate Puspo";
 // let hate = a.toLowerCase();
 // document.getElementById("demo").innerHTML = hate; 
 
@@ -249,7 +249,7 @@ console.log(x);
 
 //Concat Method
 // let a = "I Hate";
-// let b = "Zahid";
+// let b = "Puspo";
 // let c = a.concat(" " , b);
 // document.getElementById("demo").innerHTML = c; 
 
@@ -257,21 +257,21 @@ console.log(x);
 
 
 //Trim Method
-// let a = "       I Hate Zahid         ";
+// let a = "       I Hate Puspo         ";
 // let hate = a.trim();
 // document.getElementById("demo").innerHTML = hate; 
 
 
 
 //Charat method
-// let a = "I Hate Zahid";
+// let a = "I Hate Puspo";
 // let hate = a.charAt(4);
 // document.getElementById("demo").innerHTML = hate; 
 
 
 
 //Charcodeat method (Unicode Definer)
-// let a = "I Hate Zahid";
+// let a = "I Hate Puspo";
 // let hate = a.charCodeAt(4);
 // document.getElementById("demo").innerHTML = hate; 
 
